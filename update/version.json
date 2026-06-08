@@ -1,0 +1,12 @@
+{
+  "app": "VideoTool",
+  "version": "0.2.0",
+  "version_code": 200,
+  "published_at": "2026-06-08",
+  "release_notes": "当前稳定版：素材拖放到剪映/PR、卡片预览与 Inno 安装版更新通道。",
+  "download_url": "",
+  "sha256": "",
+  "size_bytes": 0,
+  "asset": "VideoTool-Setup-0.2.0.exe",
+  "kind": "setup"
+}
