@@ -5,8 +5,8 @@
   "published_at": "2026-06-08",
   "release_notes": "修复：无黑控制台启动；侧边栏/工具栏/设置内「检查更新」；Inno 中文向导与 docs 说明。",
   "download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.2.1/VideoTool-Setup-0.2.1.exe",
-  "sha256": "c631bc5aeb513da09ee6c85285ebf051087e49e652e508a1aee8121d74009d21",
-  "size_bytes": 48184568,
+  "sha256": "c5240bbd3d6b48d09576c7664f24641a69d42263cb630c988f2cd7f3b8e4386b",
+  "size_bytes": 48184000,
   "asset": "VideoTool-Setup-0.2.1.exe",
   "kind": "setup"
 }
