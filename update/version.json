@@ -1,12 +1,12 @@
 {
   "app": "VideoTool",
-  "version": "0.2.0",
-  "version_code": 200,
+  "version": "0.2.1",
+  "version_code": 201,
   "published_at": "2026-06-08",
-  "release_notes": "当前稳定版：素材拖放到剪映/PR、卡片预览与 Inno 安装版更新通道。",
-  "download_url": "",
-  "sha256": "",
-  "size_bytes": 0,
-  "asset": "VideoTool-Setup-0.2.0.exe",
+  "release_notes": "修复：无黑控制台启动；侧边栏/工具栏/设置内「检查更新」；Inno 中文向导与 docs 说明。",
+  "download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.2.1/VideoTool-Setup-0.2.1.exe",
+  "sha256": "c631bc5aeb513da09ee6c85285ebf051087e49e652e508a1aee8121d74009d21",
+  "size_bytes": 48184568,
+  "asset": "VideoTool-Setup-0.2.1.exe",
   "kind": "setup"
 }
