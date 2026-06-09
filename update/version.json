@@ -1,12 +1,12 @@
 {
   "app": "VideoTool",
-  "version": "0.2.2",
-  "version_code": 202,
+  "version": "0.2.3",
+  "version_code": 203,
   "published_at": "2026-06-09",
-  "release_notes": "修复：更新检测兜底与网络失败提示；GUI 左侧/工具栏 * 新版本角标；顶部工具栏与提示文字溢出优化。",
-  "download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.2.2/VideoTool-Setup-0.2.2.exe",
-  "sha256": "999353fd402e71b22d5012a11113ddee48e9737680bda47c6a11ebcb4c60272a",
-  "size_bytes": 48182054,
-  "asset": "VideoTool-Setup-0.2.2.exe",
+  "release_notes": "修复：更新角标显示；禁止重复弹窗；下载重试与管理员安装；更新失败明确提示。",
+  "download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.2.3/VideoTool-Setup-0.2.3.exe",
+  "sha256": "3dd1589a61356dce79b8a65bba36df42e05bea15714050ac008137f2600aeecb",
+  "size_bytes": 48309376,
+  "asset": "VideoTool-Setup-0.2.3.exe",
   "kind": "setup"
 }
