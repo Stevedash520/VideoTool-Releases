@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.4",
-  "version_code": 304,
+  "version": "0.3.5",
+  "version_code": 305,
   "published_at": "2026-06-07",
-  "release_notes": "1. 侧边栏：导航图标列对齐（素材库/成品库/最近/收藏/剪辑工作台）\n2. 侧边栏：版本号与「检查更新」按钮文字居中\n3. 底部提示文字居中显示",
+  "release_notes": "1. 热更新：下载前自动测试线路，优先选用可用镜像\n2. 热更新：卡住时自动切换线路，并增加 Windows BITS 备用下载\n3. 热更新：进度界面主线程刷新，显示「测试线路 / 加速镜像下载」状态\n4. 下载停滞超过 25 秒无数据时自动换线路",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.4/VideoTool-0.3.4-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.5/VideoTool-0.3.5-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.4/VideoTool-0.3.4-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.4/VideoTool-0.3.4-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.5/VideoTool-0.3.5-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.5/VideoTool-0.3.5-update.zip"
   ],
-  "sha256": "f9bfd59fdff5e46e7853d70ce8272137829624ff39710040dc8c72e3095ad18c",
-  "size_bytes": 176109702,
-  "asset": "VideoTool-0.3.4-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.4/VideoTool-Setup-0.3.4.exe",
+  "sha256": "35de6470f562ba4d258608f9c0d1b6747fc89564b0ca64129239b0ea20638e4a",
+  "size_bytes": 176112374,
+  "asset": "VideoTool-0.3.5-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.5/VideoTool-Setup-0.3.5.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.4/VideoTool-Setup-0.3.4.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.5/VideoTool-Setup-0.3.5.exe"
   ],
-  "setup_sha256": "2c67840fff19067dd45b54c7cf260373570d77a9e0c69474709750ad69d94cdc",
-  "setup_size_bytes": 120658369,
-  "setup_asset": "VideoTool-Setup-0.3.4.exe"
+  "setup_sha256": "f03dc7c99cedce2f8ad5b772c2292aac6c542016c914c0497e5cb98c632766c9",
+  "setup_size_bytes": 120667767,
+  "setup_asset": "VideoTool-Setup-0.3.5.exe"
 }
