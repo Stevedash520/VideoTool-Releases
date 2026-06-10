@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.2",
-  "version_code": 302,
+  "version": "0.3.3",
+  "version_code": 303,
   "published_at": "2026-06-07",
-  "release_notes": "1. 修复背景图在主内容区不可见的问题（卡片间隙与列表区域可看到壁纸）\n2. 工具栏精简：背景、使用说明、检查更新移入「设置」\n3. 设置中增加背景显示区域说明",
+  "release_notes": "1. 热更新：国内网络优先走加速镜像下载，GitHub 直连作兜底\n2. 热更新：检测更新优先读 raw 版 version.json，避免 jsDelivr 缓存滞后\n3. 热更新：下载窗口显示当前线路（加速镜像 / 备用 / GitHub）\n4. 修复背景图在主内容区不可见的问题\n5. 工具栏精简：背景、说明、更新移入「设置」",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.2/VideoTool-0.3.2-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.3/VideoTool-0.3.3-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.2/VideoTool-0.3.2-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.2/VideoTool-0.3.2-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.3/VideoTool-0.3.3-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.3/VideoTool-0.3.3-update.zip"
   ],
-  "sha256": "d1fa09fc08e51f06394b5eb02fec4a6f9ba0841a7debdefb3a59a8c22c618e8d",
-  "size_bytes": 176104121,
-  "asset": "VideoTool-0.3.2-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.2/VideoTool-Setup-0.3.2.exe",
+  "sha256": "12dc50a3278eb64052345e7431d1124d2a6792eecabe2691e33ce2f924f29764",
+  "size_bytes": 176108208,
+  "asset": "VideoTool-0.3.3-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.3/VideoTool-Setup-0.3.3.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.2/VideoTool-Setup-0.3.2.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.3/VideoTool-Setup-0.3.3.exe"
   ],
-  "setup_sha256": "b6cc5db2a1faeff0963e367a437eea8fca3723b48186f7c28e9af76f6ffbc236",
-  "setup_size_bytes": 120659569,
-  "setup_asset": "VideoTool-Setup-0.3.2.exe"
+  "setup_sha256": "d5b6153e5e8741da9a462fe58a40340970b553d40bcb77a79a2ed80f52b5a786",
+  "setup_size_bytes": 120674374,
+  "setup_asset": "VideoTool-Setup-0.3.3.exe"
 }
