@@ -1,12 +1,16 @@
 {
   "app": "VideoTool",
-  "version": "0.2.3",
-  "version_code": 203,
-  "published_at": "2026-06-09",
-  "release_notes": "修复：更新角标显示；禁止重复弹窗；下载重试与管理员安装；更新失败明确提示。",
-  "download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.2.3/VideoTool-Setup-0.2.3.exe",
-  "sha256": "3dd1589a61356dce79b8a65bba36df42e05bea15714050ac008137f2600aeecb",
-  "size_bytes": 48309376,
-  "asset": "VideoTool-Setup-0.2.3.exe",
-  "kind": "setup"
+  "version": "0.3.0",
+  "version_code": 300,
+  "published_at": "2026-06-10",
+  "release_notes": "1. 智能剪辑：日志显示片段时长与每段/总耗时\n2. 输出目录：未设置引导选择，目录消失询问是否创建\n3. 修复停止后重复剪辑导致计数错误\n4. 成功后自动将「命名错误」更正为「已剪辑」\n5. 安装版支持 zip 热更新（无需覆盖安装）",
+  "kind": "zip",
+  "download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.0/VideoTool-0.3.0-update.zip",
+  "sha256": "5edc01b64dd9c952818d4ee2d46b6537466c3b844a999a638a851c47b4ec8c48",
+  "size_bytes": 175979773,
+  "asset": "VideoTool-0.3.0-update.zip",
+  "setup_download_url": "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.0/VideoTool-Setup-0.3.0.exe",
+  "setup_sha256": "b321dc8be8178acab4d19319cf1091ac963095ddf1555136d937ed12caab2cd8",
+  "setup_size_bytes": 120533096,
+  "setup_asset": "VideoTool-Setup-0.3.0.exe"
 }
