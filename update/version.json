@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.8",
-  "version_code": 308,
+  "version": "0.3.9",
+  "version_code": 309,
   "published_at": "2026-08-19",
-  "release_notes": "1. 热更新测试版：设置页新增「本版说明」一行\n2. 用于验证 0.3.7 → 0.3.8 热更新流程\n3. 更新成功后打开「设置」即可看到蓝色说明文字",
+  "release_notes": "1. 修复热更新卡在「正在连接」无进度\n2. 下载优先 curl，BITS 改为最后且限时 3 分钟\n3. 进度窗增加动画条与 MB/百分比显示",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-0.3.8-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-0.3.9-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-0.3.8-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-0.3.8-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-0.3.9-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-0.3.9-update.zip"
   ],
-  "sha256": "75d88cd54a95b74ad39a3c5d2807ddc32471de798b4e0ee4fbb8065076b0c4f3",
-  "size_bytes": 176115485,
-  "asset": "VideoTool-0.3.8-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-Setup-0.3.8.exe",
+  "sha256": "db0dacdc0b90e09c1979827c676b056f17aa534fe70e0a7304ba62f795e18d73",
+  "size_bytes": 176119291,
+  "asset": "VideoTool-0.3.9-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-Setup-0.3.9.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-Setup-0.3.8.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-Setup-0.3.9.exe"
   ],
-  "setup_sha256": "b63b33ae1e03a158532e698c6bda9d392e1b57caf1c200549ccc673b96684be7",
-  "setup_size_bytes": 120682738,
-  "setup_asset": "VideoTool-Setup-0.3.8.exe"
+  "setup_sha256": "fa8083209066fdb0513fdeb69f99bd9a2b051f05db45552f71d66f7182cb13fe",
+  "setup_size_bytes": 120664454,
+  "setup_asset": "VideoTool-Setup-0.3.9.exe"
 }
