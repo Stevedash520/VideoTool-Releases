@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.9",
-  "version_code": 309,
-  "published_at": "2026-08-19",
-  "release_notes": "1. 修复热更新卡在「正在连接」无进度\n2. 下载优先 curl，BITS 改为最后且限时 3 分钟\n3. 进度窗增加动画条与 MB/百分比显示",
+  "version": "0.3.10",
+  "version_code": 310,
+  "published_at": "2026-08-20",
+  "release_notes": "1. 热更新测试小版本（0.3.9 → 0.3.10）\n2. 设置页会显示蓝色「本版说明」便于确认更新成功",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-0.3.9-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.10/VideoTool-0.3.10-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-0.3.9-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-0.3.9-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.10/VideoTool-0.3.10-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.10/VideoTool-0.3.10-update.zip"
   ],
-  "sha256": "db0dacdc0b90e09c1979827c676b056f17aa534fe70e0a7304ba62f795e18d73",
-  "size_bytes": 176119291,
-  "asset": "VideoTool-0.3.9-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-Setup-0.3.9.exe",
+  "sha256": "d840ce6e71bc658f5873cd7acc3db6643daa5cdee06ed52e34447cb4fc3a62f6",
+  "size_bytes": 176119260,
+  "asset": "VideoTool-0.3.10-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.10/VideoTool-Setup-0.3.10.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.9/VideoTool-Setup-0.3.9.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.10/VideoTool-Setup-0.3.10.exe"
   ],
-  "setup_sha256": "fa8083209066fdb0513fdeb69f99bd9a2b051f05db45552f71d66f7182cb13fe",
-  "setup_size_bytes": 120664454,
-  "setup_asset": "VideoTool-Setup-0.3.9.exe"
+  "setup_sha256": "c2a9af0e81168402065fec56c7acade5876f83899d932a42b0fa86634cd8cfb2",
+  "setup_size_bytes": 120689520,
+  "setup_asset": "VideoTool-Setup-0.3.10.exe"
 }
