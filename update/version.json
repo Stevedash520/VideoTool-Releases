@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.7",
-  "version_code": 307,
-  "published_at": "2026-06-07",
-  "release_notes": "1. 热更新：取消长时间线路探测，Windows 优先 BITS 下载\n2. 热更新：下载状态实时刷新到进度窗（不再卡在「正在连接」）\n3. 热更新：单线路超时 15 分钟自动换线\n4. 含 0.3.6 全部修复（编码、校验、Updater 等）",
+  "version": "0.3.8",
+  "version_code": 308,
+  "published_at": "2026-08-19",
+  "release_notes": "1. 热更新测试版：设置页新增「本版说明」一行\n2. 用于验证 0.3.7 → 0.3.8 热更新流程\n3. 更新成功后打开「设置」即可看到蓝色说明文字",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.7/VideoTool-0.3.7-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-0.3.8-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.7/VideoTool-0.3.7-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.7/VideoTool-0.3.7-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-0.3.8-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-0.3.8-update.zip"
   ],
-  "sha256": "089b1c96ae92805660efe6eeee08d0d67889e5601b78010be19ee83bb41a0f66",
-  "size_bytes": 176116743,
-  "asset": "VideoTool-0.3.7-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.7/VideoTool-Setup-0.3.7.exe",
+  "sha256": "75d88cd54a95b74ad39a3c5d2807ddc32471de798b4e0ee4fbb8065076b0c4f3",
+  "size_bytes": 176115485,
+  "asset": "VideoTool-0.3.8-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-Setup-0.3.8.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.7/VideoTool-Setup-0.3.7.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.8/VideoTool-Setup-0.3.8.exe"
   ],
-  "setup_sha256": "5d320f566970409bd952b6a82b3105c49ce798000f3c0803e0fd1ae7621b3950",
-  "setup_size_bytes": 120659403,
-  "setup_asset": "VideoTool-Setup-0.3.7.exe"
+  "setup_sha256": "b63b33ae1e03a158532e698c6bda9d392e1b57caf1c200549ccc673b96684be7",
+  "setup_size_bytes": 120682738,
+  "setup_asset": "VideoTool-Setup-0.3.8.exe"
 }
