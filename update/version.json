@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.13",
-  "version_code": 313,
+  "version": "0.3.14",
+  "version_code": 314,
   "published_at": "2026-08-20",
-  "release_notes": "1. 修复热更新时约 11 个 _tcl_data 文件替换失败\n2. 修复更新完成后无法自动重启\n3. 更新器改为两阶段：先退出 UI 再替换文件",
+  "release_notes": "1. 热更新测试小版本（0.3.13 → 0.3.14）\n2. 验证两阶段更新器：无文件失败、自动重启",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.13/VideoTool-0.3.13-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-0.3.14-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.13/VideoTool-0.3.13-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.13/VideoTool-0.3.13-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-0.3.14-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-0.3.14-update.zip"
   ],
-  "sha256": "9f93a1c7e8d633f33a8fb1fc54dbfb8d922f506e3a7f6938d59f5dd4ae8e5b53",
-  "size_bytes": 187190692,
-  "asset": "VideoTool-0.3.13-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.13/VideoTool-Setup-0.3.13.exe",
+  "sha256": "9eb07eb48f89dca8d23712df614c6f73e9a3c98b202a5c4e413fce74023f0c65",
+  "size_bytes": 187189905,
+  "asset": "VideoTool-0.3.14-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-Setup-0.3.14.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.13/VideoTool-Setup-0.3.13.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-Setup-0.3.14.exe"
   ],
-  "setup_sha256": "5b7a2a73976ed554cb0a3adebee827787bd72c45c161bc344e2c5f56afa75c50",
-  "setup_size_bytes": 125909791,
-  "setup_asset": "VideoTool-Setup-0.3.13.exe"
+  "setup_sha256": "acf878e7141cd88bb69b64bf013dd0b00d7205c19462f56370cd9f0d1495551e",
+  "setup_size_bytes": 125935919,
+  "setup_asset": "VideoTool-Setup-0.3.14.exe"
 }
