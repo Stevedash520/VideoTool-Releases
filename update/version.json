@@ -1,23 +1,23 @@
 {
   "app": "VideoTool",
-  "version": "0.3.14",
-  "version_code": 314,
-  "published_at": "2026-08-20",
-  "release_notes": "1. 热更新测试小版本（0.3.13 → 0.3.14）\n2. 验证两阶段更新器：无文件失败、自动重启",
+  "version": "0.3.15",
+  "version_code": 315,
+  "published_at": "2026-08-30",
+  "release_notes": "1. 安装进度窗正常恢复：更新器复制到 TEMP 再替换文件\n2. 安装阶段可见绿色进度条、百分比、logo 角标\n3. 避免占用 _tcl_data 导致文件失败与无进度",
   "kind": "zip",
-  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-0.3.14-update.zip",
+  "download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.15/VideoTool-0.3.15-update.zip",
   "download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-0.3.14-update.zip",
-    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-0.3.14-update.zip"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.15/VideoTool-0.3.15-update.zip",
+    "https://mirror.ghproxy.com/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.15/VideoTool-0.3.15-update.zip"
   ],
-  "sha256": "9eb07eb48f89dca8d23712df614c6f73e9a3c98b202a5c4e413fce74023f0c65",
-  "size_bytes": 187189905,
-  "asset": "VideoTool-0.3.14-update.zip",
-  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-Setup-0.3.14.exe",
+  "sha256": "d7a0e164d6949e02018fccb1b021cc8774848d4f8d8e3f4524bc5ac4b4870162",
+  "size_bytes": 187197535,
+  "asset": "VideoTool-0.3.15-update.zip",
+  "setup_download_url": "https://ghfast.top/https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.15/VideoTool-Setup-0.3.15.exe",
   "setup_download_url_mirrors": [
-    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.14/VideoTool-Setup-0.3.14.exe"
+    "https://github.com/Stevedash520/VideoTool-Releases/releases/download/v0.3.15/VideoTool-Setup-0.3.15.exe"
   ],
-  "setup_sha256": "acf878e7141cd88bb69b64bf013dd0b00d7205c19462f56370cd9f0d1495551e",
-  "setup_size_bytes": 125935919,
-  "setup_asset": "VideoTool-Setup-0.3.14.exe"
+  "setup_sha256": "e40da648474eed3c5a100bca88c5d5faf961596a8a7fbdaf2eff2c1ecbab1892",
+  "setup_size_bytes": 125903990,
+  "setup_asset": "VideoTool-Setup-0.3.15.exe"
 }
